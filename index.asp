@@ -2,7 +2,7 @@
 <html>
     <body>
         <%
-        var date = DateTime.now("m/d/y")
+        echo(date("m/d/y"))
         %>
     </body>
 </html>
